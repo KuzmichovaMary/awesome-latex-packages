@@ -1,11 +1,11 @@
 # List of awesome latex packages
 
-!(Latex Ducks)[https://ctan.org/pkg/tikzducks]
+[Latex Ducks](https://ctan.org/pkg/tikzducks)
 
-!(Tikzlings)[https://ctan.org/pkg/tikzlings]
+[Tikzlings](https://ctan.org/pkg/tikzlings)
 
-!(TikzBricks)[https://ctan.org/pkg/tikzbricks]
+[TikzBricks](https://ctan.org/pkg/tikzbricks)
 
-!(TikzJigsaw)[https://ctan.org/pkg/jigsaw]
+[TikzJigsaw](https://ctan.org/pkg/jigsaw)
 
-!(TikzPxPic)[https://ctan.org/pkg/pxpic]
+[TikzPxPic](https://ctan.org/pkg/pxpic)
